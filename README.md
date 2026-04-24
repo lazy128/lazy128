@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ✅ FIX 1: Lofi girl GIF on top -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JvZmszeGwzMHA2aTd4ZGZ6MzFsanQ2a2RwYnFteThzc3BpYzR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8GfFH47PKeyI/giphy.gif" width="450" alt="late night drive" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwbTBia3VseXNtYjg3M255NHVjanVqcnYxemx6ZWI4ZHF6NnR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" tyle="max-width:860px" alt="late night rain" />
 
 <!-- Animated Banner with Name below GIF -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366f1,100:818cf8&height=180&section=header&text=Nguy%E1%BB%85n%20L%C3%AA%20Duy&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%7C%20HCMUT&descAlignY=65&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:1a1f3c,100:0f1729&height=110&text=Nguy%E1%BB%85n%20L%C3%AA%20Duy&fontSize=36&fontColor=e2e8f0&fontAlignY=42&desc=Backend%20Developer%20%7C%20HCMUT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=72&descSize=15&animation=fadeIn" width="100%" />
 
 <!-- ✅ FIX 2: Typing SVG — no emoji in URL, no <a> wrapper -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=55&lines=Backend+%26+Software+Architecture;Node.js+%7C+TypeScript+%7C+Python;JLPT+N3+Challenge+(Currently+N4)" alt="Typing SVG" />
