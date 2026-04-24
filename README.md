@@ -24,7 +24,7 @@ const developer = {
   major:    "Computer Science & Engineering",
   role:     "Backend Developer",
   focus:    ["RESTful API Design", "Database Schema", "System Architecture", "Data Analytics"],
-  stack:    ["Node.js", "NestJS", "TypeScript", "Python","Java", "MySQL", "PostgreSQL", "Redis", "MongoDB"],
+  stack:    ["Node.js", "NestJS", "TypeScript", "Python","Java", "MySQL", "Redis", "MongoDB"],
   advanced: ["Docker", "AWS", "Kafka", "RabbitMQ", "GraphQL",],
   tools:    ["Pytest", "Postman", "n8n", "Ollama"],
   learning: ["AWS Certified", "Microservices", "JLPT N3 🇯🇵"],
@@ -199,9 +199,12 @@ Data Analytics         ██████░░░░░░░░░░   40%
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duynguyen1282005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=duynguyen1282005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-511549388/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy128)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.duy.576646)
+
+
 
 </div>
 
@@ -211,7 +214,9 @@ Data Analytics         ██████░░░░░░░░░░   40%
 
 <div align="center">
 
-> *「プログラムは書くためではなく、読むためにある」— Kent Beck*
+> * Everybody gon' respect the shooter
+But the one in front of the gun lives forever.
+*  
 
 </div>
 
