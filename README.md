@@ -48,7 +48,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=lazy128&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com/?user=lazy128&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
 
 </div>
 
