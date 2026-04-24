@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lazy128&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=lazy128&label=Profile%20Views&color=6366f1cd&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/lazy128?label=Followers&style=flat-square&color=6366f1" alt="followers" />
 
 </div>
@@ -26,8 +26,9 @@ const developer = {
   school:   "HCMUT – Ho Chi Minh City University of Technology",
   major:    "Computer Science & Engineering",
   role:     "Backend Developer",
-  focus:    ["RESTful API Design", "Database Schema", "System Architecture"],
-  stack:    ["Node.js", "TypeScript", "Prisma", "MySQL", "Docker"],
+  focus:    ["RESTful API Design", "Database Schema", "System Architecture", "Data Analytics"],
+  stack:    ["Node.js", "NestJS", "TypeScript", "Python", "Prisma", "MySQL", "Docker", "Redis", "Elasticsearch"],
+  advanced: ["n8n Workflows", "Ollama LLMs", "Nx Monorepos", "Kibana Dashboards", "R Analytics"],
   learning: ["AWS", "Microservices", "JLPT N3 🇯🇵"],
   contact:  "duynguyen1282005@gmail.com",
   motto:    "シンプルであることは、完璧に近い",
@@ -101,9 +102,10 @@ const developer = {
 | # | Project | Description | Tech Stack | Status |
 |---|---------|-------------|------------|--------|
 | 1 | **Project A** | RESTful API with authentication & payment integration | `Node.js` `Express` `MySQL` `Prisma` | ✅ Production |
-| 2 | **Project B** | Microservice architecture with message queue & cache | `TypeScript` `Sequelize` `Docker` | 🔄 Active |
+| 2 | **Project B** | Microservice architecture with message queue & cache | `NestJS` `TypeScript` `Redis` `Docker` | 🔄 Active |
 | 3 | **Project C** | Low-level system programming & algorithm optimization | `MIPS Assembly` `C` | 📚 Learning |
-| 4 | **Project D** | ETL data processing pipeline | `Python` `FastAPI` `PostgreSQL` | 🏗️ Building |
+| 4 | **Project D** | ETL data processing with search & analytics | `Python` `Elasticsearch` `Kibana` `R` | 🏗️ Building |
+| 5 | **Project E** | AI workflow automation with local LLMs | `n8n` `Ollama` `Nx` `TypeScript` | 🚀 New |
 
 ---
 
@@ -113,7 +115,7 @@ const developer = {
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,python,java,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,python,java,go&theme=dark" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,prisma&theme=dark" />
@@ -121,12 +123,12 @@ const developer = {
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,nx&theme=dark" />
 </p>
 
-### Data & Search
+### Data, Search & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,kibana,r,ollama&theme=dark" />
 </p>
 
 </div>
@@ -149,7 +151,9 @@ const developer = {
 🎯 System Design        ████████████░░░░   75%
 ☁️  AWS (Preparing)      ██████░░░░░░░░░░   40%
 🇯🇵 Japanese N3 Target   ████████░░░░░░░░   50%
-🔧 Microservices        ██████████░░░░░░   60%
+🔧 NestJS & Microservices █████████░░░░░░░   70%
+📊 Data Analytics       ██████░░░░░░░░░░   40%
+🤖 AI/LLM Integration   ███████░░░░░░░░░   55%
 ```
 
 </div>
