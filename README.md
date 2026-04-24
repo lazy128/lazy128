@@ -24,9 +24,10 @@ const developer = {
   major:    "Computer Science & Engineering",
   role:     "Backend Developer",
   focus:    ["RESTful API Design", "Database Schema", "System Architecture", "Data Analytics"],
-  stack:    ["Node.js", "NestJS", "TypeScript", "Python", "Prisma", "MySQL", "Docker", "Redis", "Elasticsearch"],
-  advanced: ["n8n Workflows", "Ollama LLMs", "Nx Monorepos", "Kibana Dashboards", "R Analytics"],
-  learning: ["AWS", "Microservices", "JLPT N3"],
+  stack:    ["Node.js", "NestJS", "TypeScript", "Python", "Go", "Java", "MySQL", "PostgreSQL", "Redis", "MongoDB"],
+  advanced: ["Docker", "Kubernetes", "AWS", "Kafka", "RabbitMQ", "GraphQL", "gRPC"],
+  tools:    ["Jest", "Pytest", "Postman", "Prometheus", "Grafana", "n8n", "Ollama"],
+  learning: ["AWS Certified", "Microservices", "JLPT N3 🇯🇵"],
   contact:  "duynguyen1282005@gmail.com",
   motto:    "Simple is close to perfect",
 };
@@ -137,26 +138,63 @@ const developer = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Full Tech Stack
 
 <div align="center">
 
-### Backend & Database
+### **Backend Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,python,java,go&theme=dark" />
 </p>
+
+### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb,prisma,sequelize&theme=dark" />
 </p>
 
-### DevOps & Tools
+### **Message Queue & Streaming**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" />
 </p>
 
-### Data & AI
+### **API & Communication**
 <p>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=graphql,grpc,rest&theme=dark" />
+</p>
+
+### **DevOps & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,github,actions,vscode,nx,jenkins&theme=dark" />
+</p>
+
+### **Monitoring & Observability**
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,newrelic,datadog&theme=dark" />
+</p>
+
+### **Security & Auth**
+<p>
+  <img src="https://skillicons.dev/icons?i=oauth,jwt,keycloak,vault&theme=dark" />
+</p>
+
+### **Testing & Quality**
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,mocha,pytest,junit,postman,insomnia&theme=dark" />
+</p>
+
+### **Data & Analytics**
+<p>
+  <img src="https://skillicons.dev/icons?i=r,python,apache,spark,flink,airflow&theme=dark" />
+</p>
+
+### **Workflow & Automation**
+<p>
+  <img src="https://skillicons.dev/icons?i=n8n,webhook,cron,githubactions,gitlabci&theme=dark" />
+</p>
+
+### **AI/ML & LLMs**
+<p>
+  <img src="https://skillicons.dev/icons?i=ollama,langchain,llama,pytorch,tensorflow,openai&theme=dark" />
 </p>
 
 </div>
