@@ -149,7 +149,7 @@ const developer = {
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb,prisma,sequelize&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,prisma,sequelize&theme=dark" />
 </p>
 
 ### **Message Queue & Streaming**
@@ -159,7 +159,7 @@ const developer = {
 
 ### **API & Communication**
 <p>
-  <img src="https://skillicons.dev/icons?i=graphql,grpc,rest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=graphql,rest&theme=dark" />
 </p>
 
 ### **DevOps & Infrastructure**
@@ -169,7 +169,7 @@ const developer = {
 
 ### **Monitoring & Observability**
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,newrelic,datadog&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,kibana&theme=dark" />
 </p>
 
 ### **Security & Auth**
@@ -182,20 +182,11 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=jest,mocha,pytest,junit,postman,insomnia&theme=dark" />
 </p>
 
-### **Data & Analytics**
-<p>
-  <img src="https://skillicons.dev/icons?i=r,python,apache,spark,flink,airflow&theme=dark" />
-</p>
-
 ### **Workflow & Automation**
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n,webhook,cron,githubactions,gitlabci&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=n8n,webhook,githubactions,gitlabci&theme=dark" />
 </p>
 
-### **AI/ML & LLMs**
-<p>
-  <img src="https://skillicons.dev/icons?i=ollama,langchain,llama,pytorch,tensorflow,openai&theme=dark" />
-</p>
 
 </div>
 
