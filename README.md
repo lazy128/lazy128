@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✅ FIX 1: Lofi girl GIF on top -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="lofi study" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JvZmszeGwzMHA2aTd4ZGZ6MzFsanQ2a2RwYnFteThzc3BpYzR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8GfFH47PKeyI/giphy.gif" width="450" alt="late night drive" />
 
 <!-- Animated Banner with Name below GIF -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366f1,100:818cf8&height=180&section=header&text=Nguy%E1%BB%85n%20L%C3%AA%20Duy&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%7C%20HCMUT&descAlignY=65&descSize=18&animation=fadeIn" />
