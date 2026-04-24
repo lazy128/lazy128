@@ -73,17 +73,17 @@ const developer = {
 <table>
 <tr>
   <td align="center" width="50%">
-    <a href="https://github.com/lazy128/PROJECT_A">
+    <a href="[https://github.com/lazy128/PROJECT_A](https://github.com/lazy128/node_54-assignment)">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lazy128&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&icon_color=818cf8" />
     </a>
   </td>
   <td align="center" width="50%">
-    <a href="https://github.com/lazy128/PROJECT_B">
+    <a href="[https://github.com/lazy128/PROJECT_B](https://github.com/meow-null/DADN_CNPM_252_HCMUT)">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lazy128&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&icon_color=818cf8" />
     </a>
   </td>
 </tr>
-<tr>
+<!-- <tr>
   <td align="center" width="50%">
     <a href="https://github.com/lazy128/PROJECT_C">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lazy128&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&icon_color=818cf8" />
@@ -94,7 +94,7 @@ const developer = {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lazy128&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&icon_color=818cf8" />
     </a>
   </td>
-</tr>
+</tr> -->
 </table>
 
 ### 🗂️ Project Summary
@@ -153,7 +153,6 @@ const developer = {
 🇯🇵 Japanese N3 Target   ████████░░░░░░░░   50%
 🔧 NestJS & Microservices █████████░░░░░░░   70%
 📊 Data Analytics       ██████░░░░░░░░░░   40%
-🤖 AI/LLM Integration   ███████░░░░░░░░░   55%
 ```
 
 </div>
@@ -166,9 +165,7 @@ const developer = {
 
 | 🏅 | Details |
 |----|---------|
-| 🥇 **Hackathon** | 1st Place @ HCMUT Hackathon 2024 |
 | 📜 **AWS** | Certified Developer – In Progress |
-| 🤝 **Open Source** | Active contributor |
 | 🇯🇵 **JLPT** | N4 achieved → N3 target 2025 |
 
 </div>
@@ -193,8 +190,10 @@ const developer = {
 
 > 🇯🇵 *「プログラムは書くためではなく、読むためにある」— Kent Beck*  
 > 🇬🇧 *"Programs must be written for people to read, and only incidentally for machines to execute."*
-
-</div>
+> * "Everybody gon' respect the shooter
+But the one in front of the gun lives forever." 
+* — Kendrick Lamar
+</div> 
 
 ---
 
