@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lazy128&label=Profile%20Views&color=6366f1cd&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=lazy128&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/lazy128?label=Followers&style=flat-square&color=6366f1" alt="followers" />
 
 </div>
@@ -49,7 +49,7 @@ const developer = {
 <div align="center">
 
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.vercel.app/?user=lazy128&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=lazy128&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b" />
 
 </div>
 
@@ -62,7 +62,7 @@ const developer = {
   </picture>
 </div>
 
-> ⚙️ **Để bật snake animation**, tạo file `.github/workflows/snake.yml` trong repo của bạn — xem hướng dẫn bên dưới.
+> ⚙️ **To enable snake animation**, create `.github/workflows/snake.yml` in your repo — see setup instructions below.
 
 ---
 
@@ -192,7 +192,7 @@ const developer = {
 > 🇬🇧 *"Programs must be written for people to read, and only incidentally for machines to execute."*
 > * "Everybody gon' respect the shooter
 But the one in front of the gun lives forever." 
-* — Kendrick Lamar
+* 
 </div> 
 
 ---
