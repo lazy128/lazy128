@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- ✅ FIX 1: Lofi girl GIF on top -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwbTBia3VseXNtYjg3M255NHVjanVqcnYxemx6ZWI4ZHF6NnR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" tyle="max-width:860px" alt="late night rain" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwbTBia3VseXNtYjg3M255NHVjanVqcnYxemx6ZWI4ZHF6NnR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" width="100%" alt="late night rain" />
 
-<!-- Animated Banner with Name below GIF -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:1a1f3c,100:0f1729&height=110&text=Nguy%E1%BB%85n%20L%C3%AA%20Duy&fontSize=36&fontColor=e2e8f0&fontAlignY=42&desc=Backend%20Developer%20%7C%20HCMUT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=72&descSize=15&animation=fadeIn" width="100%" />
 
-<!-- ✅ FIX 2: Typing SVG — no emoji in URL, no <a> wrapper -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=55&lines=Backend+%26+Software+Architecture;Node.js+%7C+TypeScript+%7C+Python;JLPT+N3+Challenge+(Currently+N4)" alt="Typing SVG" />
 
 <br/>
@@ -52,9 +49,12 @@ const developer = {
 
 </div>
 
-<!-- ✅ FIX 3: Snake — dùng ghchart thay thế, hiện ngay không cần Action -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/6366f1/lazy128" alt="lazy128 contribution chart" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazy128/lazy128/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazy128/lazy128/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lazy128/lazy128/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
 </div>
 
 ---
@@ -69,10 +69,7 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<!-- ✅ FIX 4: Pin cards — dùng repo name đúng + HTML table thay thế card bị lỗi -->
 <div align="center">
-
-### 🔧 Backend & API
 
 <table>
 <thead>
