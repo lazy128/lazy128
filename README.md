@@ -27,7 +27,7 @@ const developer = {
   stack:    ["Node.js", "NestJS", "TypeScript", "Python","Java", "MySQL", "Redis", "MongoDB"],
   advanced: ["Docker", "AWS", "Kafka", "RabbitMQ", "GraphQL",],
   tools:    ["Pytest", "Postman", "n8n", "Ollama"],
-  Aiming: ["AWS Certified", "Microservices", "JLPT N3 🇯🇵"],
+  Aiming: ["AWS Certified", "Microservices", "JLPT N3 🇯🇵","CISSP Certified","PMP Certified"],
   contact:  "duynguyen1282005@gmail.com",
   motto:    "Simple is close to perfect",
 };
