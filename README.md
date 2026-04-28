@@ -191,6 +191,7 @@ Data Analytics         ██████░░░░░░░░░░   40%
 | 📜 **AWS** | Certified Developer – In Progress |
 | 🇯🇵 **JLPT** | N4 achieved → N3 target 2025 |
 
+
 </div>
 
 ---
@@ -215,7 +216,7 @@ Data Analytics         ██████░░░░░░░░░░   40%
 <div align="center">
 > * Everybody gon' respect the shooter
 But the one in front of the gun lives forever.
-*  
+* 
 </div>
 
 ---
